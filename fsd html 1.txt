@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Happy+Monkey&family=Orbitron&family=Raleway:ital,wght@1,200&family=Roboto+Mono:ital,wght@1,200&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1>  webintrix</h1>
+    <p> welcome for the session  </p>
+     <p>  webinar topic is as follows </p>
+  <p> unleashing engineers career growth <p/>
+     <p>  date and time : 31 august ,2023 10:00AM  </p>
+     <h2> the total time webinar is : 50 minutes </h2>
+      <video width="250" height="250"controls> <source src="https://youtu.be/qkBFZkzhVTw" > your browser does not support </video>
+      <a href="https://openai.com/blog/chatgpt">chat gpt</a>
+           <script src="index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+
+function meet(){
+  window.location.href = "https://openai.com/blog/chatgpt";
+     
+    document.getElementById("meet-el").addEventListener("click",meet );
+}
